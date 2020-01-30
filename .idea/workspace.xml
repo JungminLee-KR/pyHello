@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56fb73e0-88f1-4eb4-b8e2-ea31af8eae24" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fastcampusPy/sec09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/review.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/sample.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/sample1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/sample2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/sample3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/score.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/users.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/word.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pyHello.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pyHello.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/tasks.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fastcampusPkg/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastcampusPkg/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fastcampusPkg/calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastcampusPkg/calc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fastcampusPkg/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastcampusPkg/fibonacci.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fastcampusPkg/prints.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastcampusPkg/prints.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fastcampusPy/sec04-2-string.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastcampusPy/sec04-2-string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fastcampusPy/sec04-4-dict-set.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastcampusPy/sec04-4-dict-set.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fastcampusPy/sec08.py" beforeDir="false" afterPath="$PROJECT_DIR$/fastcampusPy/sec08.py" afterDir="false" />
-    </list>
+    <list default="true" id="56fb73e0-88f1-4eb4-b8e2-ea31af8eae24" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -234,7 +212,7 @@
       <workItem from="1579977608269" duration="126000" />
       <workItem from="1580192781687" duration="62000" />
       <workItem from="1580193029488" duration="48000" />
-      <workItem from="1580193096123" duration="3853000" />
+      <workItem from="1580193096123" duration="3877000" />
     </task>
     <servers />
   </component>
